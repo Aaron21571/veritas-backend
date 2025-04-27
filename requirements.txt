@@ -5,3 +5,4 @@ yfinance
 scikit-learn
 pandas
 numpy
+flask_sqlalchemy
