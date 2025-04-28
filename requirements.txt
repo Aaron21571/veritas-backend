@@ -6,3 +6,4 @@ Flask-SQLAlchemy
 flask_bcrypt
 yfinance
 sklearn
+gunicorn
